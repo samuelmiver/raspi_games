@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 
 # pypong - A remake of the classic Pong game using PyGame. Written by
-# Liam Fraser - 28/07/2012 for the Linux User & Developer magazine.
+# Samuel Miravet Verde following the tips and examples given by
+# Liam Fraser for the Linux User & Developer magazine.
 
 import pygame # Provides what we need to make a game
 import sys # Gives us the sys.exit function to close our program
